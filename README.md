@@ -110,11 +110,15 @@ Kết nối và thao tác với cơ sở dữ liệu.
 
 Tạo nội dung động (dynamic content).
 
+Xử lý nghiệp vụ người dùng.
+
 Xử lý xác thực người dùng (login, register).
+
+Xác thực định danh và phân quyền người dùng.
 
 Tích hợp dễ dàng với HTML, CSS, JavaScript.
 
-Tạo API hoặc làm việc với JSON, XML.
+Tạo API hoặc làm việc với JSON, XML....
 
 PHP thường được sử dụng để xây dựng các hệ thống như:
 
