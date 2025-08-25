@@ -1,5 +1,5 @@
 ### PHP Programing
-#### Chương 1 : Giới thiệu về PHP và Laravel Khóa Coủea (khóa 1)
+#### Chương 1 : Giới thiệu về PHP và Laravel Khóa Courea (khóa 1)
 ##### 1.1 Giới thiệu về PHP
 
 PHP (viết tắt của "PHP: Hypertext Preprocessor") là một ngôn ngữ lập trình mã nguồn mở, chủ yếu được sử dụng để phát triển các ứng dụng web phía máy chủ. PHP được phát triển lần đầu vào năm 1994 bởi Rasmus Lerdorf.
