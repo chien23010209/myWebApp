@@ -16,7 +16,9 @@ Hỗ trợ nhiều hệ quản trị cơ sở dữ liệu (MySQL, PostgreSQL, Or
 
 ##### 1.2 Cú pháp PHP
 
-Mã PHP được đặt trong cặp thẻ <?php ... ?> như sau:
+Mã PHP được đặt trong cặp thẻ 
+<?php ... ?>
+như sau:
 
 <?php
     echo "Xin chào, thế giới!";
