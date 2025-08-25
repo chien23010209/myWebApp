@@ -1,6 +1,6 @@
-*PHP Programing
-Chương 1 : Giới thiệu về PHP và Laravel Khóa Coủea (khóa 1)
-1.1 Giới thiệu về PHP
+###PHP Programing
+####Chương 1 : Giới thiệu về PHP và Laravel Khóa Coủea (khóa 1)
+#####1.1 Giới thiệu về PHP
 
 PHP (viết tắt của "PHP: Hypertext Preprocessor") là một ngôn ngữ lập trình mã nguồn mở, chủ yếu được sử dụng để phát triển các ứng dụng web phía máy chủ. PHP được phát triển lần đầu vào năm 1994 bởi Rasmus Lerdorf.
 
@@ -14,7 +14,7 @@ Hỗ trợ nhiều hệ quản trị cơ sở dữ liệu (MySQL, PostgreSQL, Or
 
 Được hỗ trợ mạnh mẽ bởi cộng đồng và tài liệu phong phú.
 
-1.2 Cú pháp PHP
+#####1.2 Cú pháp PHP
 
 Mã PHP được đặt trong cặp thẻ <?php ... ?> như sau:
 
@@ -35,7 +35,7 @@ Một dòng: // đây là chú thích
 
 Nhiều dòng: /* chú thích nhiều dòng */
 
-1.3 Cấu trúc điều khiển
+#####1.3 Cấu trúc điều khiển
 
 PHP hỗ trợ đầy đủ các cấu trúc điều khiển như các ngôn ngữ lập trình phổ biến khác:
 
@@ -78,7 +78,7 @@ switch ($ngay) {
         echo "Không rõ ngày.";
 }
 
-1.4 Hàm trong PHP
+#####1.4 Hàm trong PHP
 
 Hàm là khối mã thực hiện một nhiệm vụ cụ thể, có thể tái sử dụng.
 
@@ -98,7 +98,7 @@ Có thể trả về giá trị bằng return.
 
 PHP cũng hỗ trợ hàm ẩn danh (anonymous functions) và các hàm callback.
 
-1.5 Vai trò của PHP trong phát triển ứng dụng Web
+#####1.5 Vai trò của PHP trong phát triển ứng dụng Web
 
 PHP giữ vai trò cốt lõi trong lập trình web phía server, cụ thể:
 
