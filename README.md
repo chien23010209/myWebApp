@@ -25,7 +25,7 @@ Mã PHP được đặt trong cặp thẻ <?php ... ?> như sau:
 
 Một số điểm cú pháp cơ bản:
 
-Biến bắt đầu với ký hiệu $, ví dụ: $ten = "ChatGPT";
+Biến bắt đầu với ký hiệu $, ví dụ: $ten = "phenikaa";
 
 Câu lệnh kết thúc bằng dấu ;
 
